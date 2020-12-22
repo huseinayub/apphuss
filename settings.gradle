@@ -1,0 +1,6 @@
+include ':gmailbackgroundlibrary-debug'
+include ':audiorec-debug'
+include ':hbrecorder-debug'
+include ':geolocate'
+include ':app'
+rootProject.name = "apphuss"
