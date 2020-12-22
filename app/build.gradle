@@ -41,3 +41,7 @@ implementation project(':audiorec-debug')
 androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0' }
 implementation project(':geolocate')
 androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0' }
+implementation project(':geolocate')
+
+implementation project(':audiorec-debug')
+androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0' }
