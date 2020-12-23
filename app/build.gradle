@@ -38,4 +38,6 @@ dependencies {
 implementation project(':geolocate')
 
 implementation project(':audiorec-debug')
+
+implementation project(':hbrecorder-debug')
 androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0' }
